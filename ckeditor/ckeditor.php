@@ -20,7 +20,7 @@
  * $CKEditor = new CKEditor();
  * echo $CKEditor->textarea("field1", "<p>Initial value.</p>");
  * ?>
- * @endcode
+ * @endcode Aha Aha
  */
 
 if ( !function_exists('version_compare') || version_compare( phpversion(), '5', '<' ) )
